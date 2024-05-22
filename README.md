@@ -1,0 +1,1 @@
+## DEMO of single page navigator | Django
